@@ -1,2 +1,2 @@
 # sweden-migrant-guide
-Guide for those, who is planning to or already moved to Sweden
+Guide for those who are planning to or have already moved to Sweden.
