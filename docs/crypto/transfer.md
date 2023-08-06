@@ -102,27 +102,56 @@
 Если продавец не подтвердит получение денег, вы сможете открыть спор и прикрепить квитанцию об оплате,
 и биржа будет решать ваш спор.
 
-В bybit вам нужно зайти в меню и выбрать p2p trade.
-В binance, чтобы найти p2p торговлю, нужно сначала войти в pro режим 
-(это не за деньги, просто включает усложнённый интерфейс для трейдеров)
 
 В okx процесс выглядит так:
+
 1. Находимся на вкладке Exchange, жмём синюю кнопку снизу, Buy
-  ![okx main screen.png](okx_screenshots/main.png)
-  ![trade.png](okx_screenshots/trade.png)
+![1_trade.jpeg](screenshots/okx/1_trade.jpeg)
+![2_buy.jpeg](screenshots/okx/2_buy.jpeg)
 2. Выбираем USDT для покупки
-![usdt.png](okx_screenshots/usdt.png)
+![3_usdt.jpeg](screenshots/okx/3_usdt.jpeg)
 3. Выбираем P2P торговлю (если ещё не выбрана)
 4. Выставляем валюту оплаты RUB
-
+![4_choose_currency.jpeg](screenshots/okx/4_choose_currency.jpeg)
 5. Прописываем, сколько хотим купить: в рублях или в USDT
+![5_quantity.jpeg](screenshots/okx/5_quantity.jpeg)
 6. Выбираем способ оплаты: Тинькофф, Сбер или СБП
+![6_payment_method.png](screenshots/okx/6_payment_method.png)
 7. Подтверждаем размещение заказа на предложенных условиях (курс usdt/рубль).
-  После подтверждения вы должны совершить перевод, за незавершённые сделки биржа понизит ваш рейтинг.
+  **После подтверждения вы должны совершить перевод, за незавершённые сделки биржа понизит ваш рейтинг.**
+![7_confirm_order.jpeg](screenshots/okx/7_confirm_order.jpeg)
+![8_continue_to_pay.jpeg](screenshots/okx/8_continue_to_pay.jpeg)
 8. Смотрим реквизиты для платежа (обычно это номер карты и сумма), идём в своё банковское приложение, совершаем платёж
+![9_copy_paste _details.jpeg](screenshots/9_copy_paste%20_details.jpeg)
+![10_pay_with_bank.jpeg](screenshots/okx/10_pay_with_bank.jpeg)
 9. Возвращаемся в приложение биржи, подтверждаем совершённый платёж
+![11_confirm_payment.jpeg](screenshots/okx/11_confirm_payment.jpeg)
 10. Ждём несколько минут, когда продавец увидит платёж и подтвердит получение
+![12_wait_for_release.jpeg](screenshots/okx/12_wait_for_release.jpeg)
+![13_order_completed.jpeg](screenshots/okx/13_order_completed.jpeg)
 11. Крипта зачисляется на ваш счёт
+![14_check_usdt.jpeg](screenshots/okx/14_check_usdt.jpeg)
+
+
+В bybit нужно зайти в меню, `More` и выбрать `P2P trade`.
+<details>
+  <summary>Показать скриншоты</summary>
+
+![1_more.jpeg](screenshots/bybit/1_more.jpeg)
+![2_p2p.jpeg](screenshots/bybit/2_p2p.jpeg)
+</details>
+
+
+В binance, нужно сначала войти в pro режим 
+(это не за деньги, просто включает усложнённый интерфейс для трейдеров), затем выбрать p2p торговлю.
+<details>
+  <summary>Показать скриншоты</summary>
+
+![1_profile.jpeg](screenshots/binance/1_profile.jpeg)
+![2_pro.jpeg](screenshots/binance/2_pro.jpeg)
+![3_p2p.jpeg](screenshots/binance/3_p2p.jpeg)
+</details>
+
 
 #### Обмен криптодолларов на нужные деньги
 #### Вывод нужных денег
