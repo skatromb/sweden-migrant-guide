@@ -122,7 +122,7 @@
 ![7_confirm_order.jpeg](screenshots/okx/7_confirm_order.jpeg)
 ![8_continue_to_pay.jpeg](screenshots/okx/8_continue_to_pay.jpeg)
 8. Смотрим реквизиты для платежа (обычно это номер карты и сумма), идём в своё банковское приложение, совершаем платёж
-![9_copy_paste _details.jpeg](screenshots/9_copy_paste%20_details.jpeg)
+![9_copy_paste _details.jpeg](screenshots/okx/9_copy_paste_details.jpeg)
 ![10_pay_with_bank.jpeg](screenshots/okx/10_pay_with_bank.jpeg)
 9. Возвращаемся в приложение биржи, подтверждаем совершённый платёж
 ![11_confirm_payment.jpeg](screenshots/okx/11_confirm_payment.jpeg)
