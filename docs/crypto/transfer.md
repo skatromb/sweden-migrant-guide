@@ -150,8 +150,8 @@ stablecoins (стейблкоинах)
 <details>
   <summary>Показать скриншоты</summary>
 
-![1_more.jpeg](screenshots/bybit/1_more.jpeg)
-![2_p2p.jpeg](screenshots/bybit/2_p2p.jpeg)
+<img src="screenshots/bybit/1_more.jpeg" alt="1. More" style="width:25%;min-width:320px;"/>
+<img src="screenshots/bybit/2_p2p.jpeg" alt="2. P2P" style="width:25%;min-width:320px;"/>
 </details>
 
 
@@ -161,9 +161,9 @@ stablecoins (стейблкоинах)
 <details>
   <summary>Показать скриншоты</summary>
 
-![1_profile.jpeg](screenshots/binance/1_profile.jpeg)
-![2_pro.jpeg](screenshots/binance/2_pro.jpeg)
-![3_p2p.jpeg](screenshots/binance/3_p2p.jpeg)
+<img src="screenshots/binance/1_profile.jpeg" alt="1. Profile" style="width:25%;min-width:320px;"/>
+<img src="screenshots/binance/2_pro.jpeg" alt="2. Pro mode" style="width:25%;min-width:320px;"/>
+<img src="screenshots/binance/3_p2p.jpeg" alt="3. P2P" style="width:25%;min-width:320px;"/>
 </details>
 
 ### Выводим евро с криптокарты биржи
