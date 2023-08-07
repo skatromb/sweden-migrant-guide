@@ -109,24 +109,21 @@ stablecoins (стейблкоинах)
 
 1. Находимся на вкладке Exchange, жмём синюю кнопку снизу, Buy
 
-<img src="screenshots/okx/1_trade.jpeg" alt="1. Trade" style="height:20%;"/>
-<img src="screenshots/okx/2_buy.jpeg" alt="2. Buy" style="height:20%;"/>
+<img src="screenshots/okx/1_trade.jpeg" alt="1. Trade" style="width:25%;"/>
+<img src="screenshots/okx/2_buy.jpeg" alt="2. Buy" style="width:25%;"/>
 2. Выбираем USDT для покупки
 
 <img src="screenshots/okx/3_usdt.jpeg" alt="3. USDT" style="width:25%;"/>
 3. Выбираем P2P торговлю (если ещё не выбрана)
 4. Выставляем валюту оплаты RUB
 
-<img src="" alt="" style="width:25%;"/>
-![4_choose_currency.jpeg](screenshots/okx/4_choose_currency.jpeg)
+<img src="screenshots/okx/4_choose_currency.jpeg" alt="4. Choose currency" style="width:25%;"/>
 5. Прописываем, сколько хотим купить: в рублях или в USDT
 
-![5_quantity.jpeg](screenshots/okx/5_quantity.jpeg)
-<img src="" alt="" style="width:25%;"/>
+<img src="screenshots/okx/5_quantity.jpeg" alt="5. Quantity" style="width:25%;"/>
 6. Выбираем способ оплаты: Тинькофф, Сбер или СБП
 
-![6_payment_method.png](screenshots/okx/6_payment_method.png)
-<img src="" alt="" style="width:25%;"/>
+<img src="screenshots/okx/6_payment_method.png" alt="6. Payment method" style="width:25%;"/>
 7. Подтверждаем размещение заказа на предложенных условиях (курс usdt/рубль).
   **После подтверждения вы должны совершить перевод, за незавершённые сделки биржа понизит ваш рейтинг.**
 
