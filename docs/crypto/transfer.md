@@ -108,11 +108,14 @@ stablecoins (стейблкоинах)
 В okx процесс выглядит так:
 
 1. Находимся на вкладке Exchange, жмём синюю кнопку снизу, Buy
+
 <img src="screenshots/okx/1_trade.jpeg" alt="1. Trade" style="width:25%;"/>
-<img src="screenshots/okx/2_buy.jpeg" alt="2. Buy.jpeg" style="width:25%;"/>
+<img src="screenshots/okx/2_buy.jpeg" alt="2. Buy" style="width:25%;"/>
 2. Выбираем USDT для покупки
-![3_usdt.jpeg](screenshots/okx/3_usdt.jpeg)
+
+<img src="screenshots/okx/3_usdt.jpeg" alt="3. USDT" style="width:25%;"/>
 3. Выбираем P2P торговлю (если ещё не выбрана)
+
 4. Выставляем валюту оплаты RUB
 ![4_choose_currency.jpeg](screenshots/okx/4_choose_currency.jpeg)
 5. Прописываем, сколько хотим купить: в рублях или в USDT
@@ -135,6 +138,7 @@ stablecoins (стейблкоинах)
 ![14_check_usdt.jpeg](screenshots/okx/14_check_usdt.jpeg)
 
 
+
 В bybit нужно зайти в меню, `More` и выбрать `P2P trade`, дальше всё примерно так же
 <details>
   <summary>Показать скриншоты</summary>
@@ -142,6 +146,7 @@ stablecoins (стейблкоинах)
 ![1_more.jpeg](screenshots/bybit/1_more.jpeg)
 ![2_p2p.jpeg](screenshots/bybit/2_p2p.jpeg)
 </details>
+
 
 
 В binance, нужно сначала войти в pro режим 
