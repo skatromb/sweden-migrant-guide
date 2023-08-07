@@ -109,32 +109,50 @@ stablecoins (стейблкоинах)
 
 1. Находимся на вкладке Exchange, жмём синюю кнопку снизу, Buy
 
-<img src="screenshots/okx/1_trade.jpeg" alt="1. Trade" style="width:25%;"/>
-<img src="screenshots/okx/2_buy.jpeg" alt="2. Buy" style="width:25%;"/>
+<img src="screenshots/okx/1_trade.jpeg" alt="1. Trade" style="height:20%;"/>
+<img src="screenshots/okx/2_buy.jpeg" alt="2. Buy" style="height:20%;"/>
 2. Выбираем USDT для покупки
 
 <img src="screenshots/okx/3_usdt.jpeg" alt="3. USDT" style="width:25%;"/>
 3. Выбираем P2P торговлю (если ещё не выбрана)
-
 4. Выставляем валюту оплаты RUB
+
+<img src="" alt="" style="width:25%;"/>
 ![4_choose_currency.jpeg](screenshots/okx/4_choose_currency.jpeg)
 5. Прописываем, сколько хотим купить: в рублях или в USDT
+
 ![5_quantity.jpeg](screenshots/okx/5_quantity.jpeg)
+<img src="" alt="" style="width:25%;"/>
 6. Выбираем способ оплаты: Тинькофф, Сбер или СБП
+
 ![6_payment_method.png](screenshots/okx/6_payment_method.png)
+<img src="" alt="" style="width:25%;"/>
 7. Подтверждаем размещение заказа на предложенных условиях (курс usdt/рубль).
   **После подтверждения вы должны совершить перевод, за незавершённые сделки биржа понизит ваш рейтинг.**
+
+<img src="" alt="" style="width:25%;"/>
 ![7_confirm_order.jpeg](screenshots/okx/7_confirm_order.jpeg)
+<img src="" alt="" style="width:25%;"/>
 ![8_continue_to_pay.jpeg](screenshots/okx/8_continue_to_pay.jpeg)
 8. Смотрим реквизиты для платежа (обычно это номер карты и сумма), идём в своё банковское приложение, совершаем платёж
+
 ![9_copy_paste _details.jpeg](screenshots/okx/9_copy_paste_details.jpeg)
+<img src="" alt="" style="width:25%;"/>
 ![10_pay_with_bank.jpeg](screenshots/okx/10_pay_with_bank.jpeg)
+<img src="" alt="" style="width:25%;"/>
 9. Возвращаемся в приложение биржи, подтверждаем совершённый платёж
+
+<img src="" alt="" style="width:25%;"/>
 ![11_confirm_payment.jpeg](screenshots/okx/11_confirm_payment.jpeg)
 10. Ждём несколько минут, когда продавец увидит платёж и подтвердит получение
+
 ![12_wait_for_release.jpeg](screenshots/okx/12_wait_for_release.jpeg)
+<img src="" alt="" style="width:25%;"/>
 ![13_order_completed.jpeg](screenshots/okx/13_order_completed.jpeg)
+<img src="" alt="" style="width:25%;"/>
 11. Крипта зачисляется на ваш счёт
+
+<img src="" alt="" style="width:25%;"/>
 ![14_check_usdt.jpeg](screenshots/okx/14_check_usdt.jpeg)
 
 
