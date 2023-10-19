@@ -162,9 +162,12 @@ _При этом зарубежный счёт у вас уже должен б�
 В okx процесс выглядит так:
 
 1. Находимся на вкладке Exchange, жмём синюю кнопку снизу
-  ![](screenshots/okx/1_trade.jpeg)
+
+  <img src="screenshots/okx/1_trade.jpeg" alt="1. Trade" style="width:25%;min-width:320px;"/>
+
   затем `Buy`
-  ![](screenshots/okx/2_buy.jpeg)
+
+  <img src="screenshots/okx/2_buy.jpeg" alt="2. Buy" style="width:25%;min-width:320px;"/>
 
 2. Выбираем USDT для покупки
 
