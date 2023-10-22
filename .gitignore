@@ -1,1 +1,6 @@
+**/.DS_Store
 .idea/
+_site/
+
+# because don't won't to lock updates
+Gemfile.lock
