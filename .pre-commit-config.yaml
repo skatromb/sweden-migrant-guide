@@ -5,7 +5,8 @@ repos:
     hooks:
       - id: detect-private-key
       - id: end-of-file-fixer
-      # - id: pretty-format-json
+      - id: pretty-format-json
+        exclude: .devcontainer/
       - id: trailing-whitespace
 
   # Markdown linter
