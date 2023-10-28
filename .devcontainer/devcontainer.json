@@ -19,7 +19,7 @@
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "make dev-packages-install",
+	// "postCreateCommand": "make dev-packages-install"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
