@@ -1,7 +1,6 @@
 services:
   sweden-migrant-guide:
     image: sweden-migrant-guide
-    container_name: sweden-migrant-guide
     build:
       context: .
     ports:
