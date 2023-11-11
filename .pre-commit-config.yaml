@@ -1,5 +1,6 @@
-# Look docs here https://github.com/asottile/pyupgrade/blob/main/README.md
+---
 repos:
+  # Common pre-commit hooks
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.5.0
     hooks:
@@ -13,10 +14,40 @@ repos:
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.37.0
     hooks:
-    - id: markdownlint
+      - id: markdownlint
+
+  # YAML linter
+  - repo: https://github.com/adrienverge/yamllint.git
+    rev: v1.33.0
+    hooks:
+      - id: yamllint
 
   # Dockerfile linter
   - repo: https://github.com/hadolint/hadolint
-    rev: v2.12.0
+    rev: v2.12.1-beta
     hooks:
       - id: hadolint-docker
+
+  # An extremely fast Python linter, written in Rust
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    # Ruff version.
+    rev: v0.1.5
+    hooks:
+      - id: ruff
+      - id: ruff-format
+
+  # Mypy is a static type checker for Python
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.7.0
+    hooks:
+      - id: mypy
+
+  # Flake8 is a wrapper around these tools:
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.1.0
+    hooks:
+      - id: flake8
+        additional_dependencies:
+          - wemake-python-styleguide
+          - flake8-pytest-style
+          - flake8-aaa
