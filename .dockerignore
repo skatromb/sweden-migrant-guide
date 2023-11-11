@@ -1,8 +1,8 @@
 **/.classpath
 **/.dockerignore
 **/.env
+**/*-cache
 **/.idea/
-**/.git
 **/.gitignore
 **/.project
 **/.settings

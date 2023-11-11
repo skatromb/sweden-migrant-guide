@@ -10,7 +10,7 @@ repos:
         exclude: .devcontainer/
       - id: trailing-whitespace
 
-  # Markdown linter
+  # Markdown linter  # do not work in devcontainer
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.37.0
     hooks:
@@ -21,6 +21,7 @@ repos:
     rev: v1.33.0
     hooks:
       - id: yamllint
+        exclude: .devcontainer/*
 
   # Dockerfile linter
   - repo: https://github.com/hadolint/hadolint
